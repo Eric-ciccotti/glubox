@@ -4,7 +4,7 @@ Voici un exemple trés rapide de l'utilisation d'un HOC.
 
 Celui-ci va nous permettre d'éviter la duplication d'appel à l'API (rapidAPI) google traduction.
 
-Cet HOC va wrapper deux components qui vont chacun effecté une traduction
+Cet HOC va wrapper deux components qui vont chacun effectuer une traduction
 
 Projet deployé sur netFly et [disponible ici](https://6262b73f0f96db2dc042cd6e--extraordinary-dodol-bb0c73.netlify.app/)
 
