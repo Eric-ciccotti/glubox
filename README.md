@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Informations
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Voici un exemple trés rapide de l'utilisation d'un HOC.
+
+Celui-ci va nous permettre d'éviter la duplication d'appel à l'API (rapidAPI) google traduction.
+
+Cet HOC va wrapper deux components qui vont chacun effecté une traduction
+
+Projet deployé sur netFly et [disponible ici](https://6262b73f0f96db2dc042cd6e--extraordinary-dodol-bb0c73.netlify.app/)
+
+/!\ projet de test, developpé en quelques heures dans le but de comprendre un concept
 
 ## Available Scripts
 
